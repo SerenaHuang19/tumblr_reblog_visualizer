@@ -2,7 +2,7 @@
 
 ##### _A tool to visualize the reblogs of tumblr posts!_
 
-Ever wonder how a post spreads across the microblogging site tumblr? As someone who's used tumblr for the last 5+ years, this question has certainly crossed my mind, so I decided to build this tool to interactively visualize the reblogs of a tumblr post. Input the URL of any[1] tumblr post to create an interactive 3D network graph, where the nodes are tumblr users and the vertices between nodes show the reblogs of a post. 
+Ever wonder how a post spreads across the microblogging site tumblr? As someone who's used tumblr for the last 5+ years, this question has certainly crossed my mind, so I decided to build this tool to interactively visualize the reblogs of a tumblr post. Input the URL of any<sup>[1]</sup> tumblr post to create an interactive 3D network graph, where the nodes are tumblr users and the vertices between nodes show the reblogs of a post. 
 
 ### Examples 
 
@@ -16,10 +16,10 @@ More complex examples with the most popular posts on my tumblr are available [he
 * **BeautifulSoup:** to scrape the post's notes (likes + reblogs)
 * **Networkx:** to build a network graph 
 * **plotly:** to create an interactive 3D visualization
-* **HTML / CSS:** creating the frontend 
-* **Python:** all backend operations
+* **HTML / CSS:** to create the frontend 
+* **Python:** for all backend operations
 
-[1] Almost any:
+<sup>[1]</sup> Almost any:
 
 * the post URL must be a valid link
 
