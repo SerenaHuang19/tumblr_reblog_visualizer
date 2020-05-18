@@ -18,7 +18,7 @@ import pandas as pd
 import networkx as nx
 import plotly.graph_objects as go
 
-client = pytumblr.TumblrRestClient('9TRGPe4N17LiyRiZvwlhSRoaEaov0w9sn2ntYqJt3DsP3SDWeZ')
+# tumblr rest client goes here, removed for privacy
 
 #################################### MAIN FUNCTION
 class CorpusWebServer(BaseHTTPRequestHandler):
