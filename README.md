@@ -6,7 +6,7 @@ Ever wonder how a post spreads across the microblogging site tumblr? As someone 
 
 ### Examples 
 
-Check out some examples of reblog structures [here](languageramblings.tumblr.com/reblog_viz), using three posts that I've picked from my tumblr, [languageramblings](languageramblings.tumblr.com), where I post about fun language-y and linguisticky things. 
+Check out some examples of reblog structures [here](https://languageramblings.tumblr.com/reblog_viz), using three posts that I've picked from my tumblr, [languageramblings](https://languageramblings.tumblr.com/), where I post about fun language-y and linguisticky things. 
 
 More complex examples with the most popular posts on my tumblr are available [here](https://github.com/SerenaHuang19/tumblr_reblog_visualizer/blob/master/tumblr_highlights_manual.html), although be warned that it's a much larger file as the largest network graphs have 1000+ nodes! 
 
