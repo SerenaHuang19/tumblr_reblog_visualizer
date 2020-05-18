@@ -22,7 +22,5 @@ More complex examples with the most popular posts on my tumblr are available [he
 <sup>[1]</sup> Almost any:
 
 * the post URL must be a valid link
-
 * it should have at least one reblog to visualize
-
 * the total number of notes should not exceed 7500 for speed / efficiency reasons
