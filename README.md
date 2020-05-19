@@ -14,7 +14,7 @@ More complex examples with the most popular posts on my tumblr are available [he
 
 * **the tumblr API:** to grab post metadata, including post date, total number of notes, and tags
 * **BeautifulSoup:** to scrape the post's notes (likes + reblogs)
-* **Networkx:** to build a network graph 
+* **Networkx:** to build a network graph<sup>[2]</sup> 
 * **plotly:** to create an interactive 3D visualization
 * **HTML / CSS:** to create the frontend 
 * **Python:** for all backend operations
@@ -24,3 +24,5 @@ More complex examples with the most popular posts on my tumblr are available [he
 * the post URL must be a valid link
 * it should have at least one reblog to visualize
 * the total number of notes should not exceed 7500 for speed / efficiency reasons
+
+<sup>[2]</sup> [This Medium post](https://medium.com/@anand0427/network-graph-with-at-t-data-using-plotly-a319f9898a02) was extremely helpful for learning how to use Networkx and plotly!
